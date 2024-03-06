@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Chador Wangchuk</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wangchuk99&label=Profile%20views&color=0e75b6&style=flat" alt="wangchuk99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadorngn99&label=Profile%20views&color=0e75b6&style=flat" alt="chadorngn99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wangchuk99&theme=matrix" alt="wangchuk99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadorngn99&theme=matrix" alt="chadorngn99" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Java, Python, Spring Boot, Spring MVC, Angular and Javascript**
 - 📫 How to reach me **chachuk1999@gmail.com**
 
-<div> <a href="https://github.com/wangchuk99" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/chadorngn99" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/wangchuk_99" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:chachuk1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -37,18 +37,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wangchuk99&show_icons=true&locale=en&theme=dark" alt="wangchuk99" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chadorngn99&show_icons=true&locale=en&theme=dark" alt="chadorngn99" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wangchuk99&theme=dark" alt="wangchuk99" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chadorngn99&theme=dark" alt="chadorngn99" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/wangchuk99">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangchuk99&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangchuk99&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wangchuk99&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wangchuk99&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wangchuk99&theme=github_dark" height="180em" />
+<a href="https://github.com/chadorngn99">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chadorngn99&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chadorngn99&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chadorngn99&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chadorngn99&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadorngn99&theme=github_dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wangchuk99&theme=github-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chadorngn99&theme=github-dark"/>
